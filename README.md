@@ -16,7 +16,7 @@ git clone https://github.com/AtariOverlord09/listview_flutterr.git
 Перейдите в директорию проекта: 
 
 ```bash
-cd your-project
+cd listview_flutter
 ```
 Запустите приложение: 
 
